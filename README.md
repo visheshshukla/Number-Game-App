@@ -1,6 +1,6 @@
 # Number-Game-App
 
-**Number Guessing Game Based On React Native(for both Android And IOS Platforms).**
+**Number Guessing Game App Based On React Native(for both Android And IOS Platforms).**
 
 **Users Can Play A Simple Game where they Choose A Number and the App tries to Guess that Number.**
 
