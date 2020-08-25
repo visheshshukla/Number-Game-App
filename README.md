@@ -1,4 +1,4 @@
-# Number-Game
+# Number-Game-App
 
 **Number Guessing Game Based On React Native(for both Android And IOS Platforms).**
 
